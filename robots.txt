@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/  # (Optional: Prevent search engines from indexing assets folder)
+Allow: /
+
+Sitemap: https://mudassir-31265.github.io/Web-Portfolio/sitemap.xml
